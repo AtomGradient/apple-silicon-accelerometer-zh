@@ -4,7 +4,7 @@
 
 更多信息：[阅读原文](https://medium.com/@oli.bourbonnais/your-macbook-has-an-accelerometer-and-you-can-read-it-in-real-time-in-python-28d9395fb180)
 
-![演示](assets/demo.gif)
+![演示](assets/demo-zh.png)
 
 ## 这是什么
 
