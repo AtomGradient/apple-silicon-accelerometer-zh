@@ -1,0 +1,11 @@
+*.egg-info
+*.json
+*.mov
+*.pyc
+.DS_Store
+.cursor/
+.localbin/
+.env
+__pycache__/
+uv.lock
+apple_env
