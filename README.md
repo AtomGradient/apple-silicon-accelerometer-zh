@@ -1,6 +1,8 @@
 # apple-silicon-accelerometer
 
-reads the undocumented internal accelerometer + gyroscope on apple silicon macbook pros via iokit hid (spu / AppleSPUHIDDevice),  lid angle and ambient light. 
+[中文文档 (Chinese README)](README_ZH.md)
+
+reads the undocumented internal accelerometer + gyroscope on apple silicon macbook pros via iokit hid (spu / AppleSPUHIDDevice),  lid angle and ambient light.
 
 more information: [read the article](https://medium.com/@oli.bourbonnais/your-macbook-has-an-accelerometer-and-you-can-read-it-in-real-time-in-python-28d9395fb180)
 
